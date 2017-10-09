@@ -1,4 +1,6 @@
 # grunt-html2js
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgrunt-html2js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgrunt-html2js?ref=badge_shield)
+
 
 > Converts AngularJS templates to JavaScript
 
@@ -279,3 +281,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 0.3.1 Add watch feature (PR #67, thanks @startswithaj)
 
 0.3.2 Update to stable chokidar (PR #68, thanks @paulmillr)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgrunt-html2js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgrunt-html2js?ref=badge_large)
